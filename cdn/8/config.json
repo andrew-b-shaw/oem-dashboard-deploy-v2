@@ -709,7 +709,7 @@
       "version": "1.12.0",
       "label": "Title",
       "config": {
-        "text": "<p><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 28px;\">﻿</span><span style=\"font-family: &quot;Avenir Next&quot;; font-size: 28px; background-color: rgb(66, 66, 69);\">Baltimore OEM GIS Center</span></p>",
+        "text": "<p><span style=\"font-size: 28px; font-family: &quot;Avenir Next&quot;;\">﻿Baltimore OEM GIS Center</span></p>",
         "style": {
           "verticalAlign": "center",
           "wrap": true
@@ -828,7 +828,7 @@
         "direction": "HORIZONTAL",
         "collapseSide": "FIRST",
         "overlay": false,
-        "size": "638px",
+        "size": "642px",
         "divider": {
           "visible": true,
           "lineStyle": {
@@ -924,7 +924,7 @@
   "attributes": {
     "portalUrl": "https://baltimore.maps.arcgis.com",
     "isWebTier": false,
-    "clientId": "yxGBFyOWr6xSsMye",
+    "clientId": "",
     "title": "OEM Dashboard v2",
     "description": "",
     "type": "Web Experience",
@@ -948,7 +948,7 @@
       "page_3": []
     }
   ],
-  "timestamp": 1691622450243,
+  "timestamp": 1691793861059,
   "footer": {
     "layout": {
       "LARGE": "layout_2"
@@ -966,10 +966,21 @@
     "height": {
       "LARGE": 74
     },
-    "backgroundColor": "#424245",
+    "backgroundColor": "#2f1c3d",
     "sticky": true
   },
-  "customTheme": {},
+  "customTheme": {
+    "colors": {
+      "primary": "#78489c",
+      "secondary": "#fab321",
+      "light": "#f0f0f0",
+      "dark": "#1b1b21",
+      "success": "#147633",
+      "danger": "#d60004",
+      "info": "#3d4dff",
+      "warning": "#ec7100"
+    }
+  },
   "historyLabels": {
     "pages": {
       "page_0": [
