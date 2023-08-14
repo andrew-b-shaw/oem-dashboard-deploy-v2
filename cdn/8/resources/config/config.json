@@ -833,7 +833,7 @@
         "direction": "HORIZONTAL",
         "collapseSide": "FIRST",
         "overlay": false,
-        "size": "642px",
+        "size": "638px",
         "divider": {
           "visible": true,
           "lineStyle": {
@@ -952,7 +952,7 @@
       "page_3": []
     }
   ],
-  "timestamp": 1691991344112,
+  "timestamp": 1691993653362,
   "footer": {
     "layout": {
       "LARGE": "layout_2"
